@@ -1,0 +1,1 @@
+# Prniting-AP-of-3n-2-and-which-is-not-divisible-by-4-till-x-term-
